@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnnotationDemo", "AnnotationDemo\AnnotationDemo.csproj", "{94C84E80-1D54-4A10-934F-41B69FBBF834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C84E80-1D54-4A10-934F-41B69FBBF834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C84E80-1D54-4A10-934F-41B69FBBF834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C84E80-1D54-4A10-934F-41B69FBBF834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C84E80-1D54-4A10-934F-41B69FBBF834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46ED0DBC-8D31-4363-9AD6-DD7B5B466585}
+	EndGlobalSection
+EndGlobal

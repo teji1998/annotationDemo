@@ -1,0 +1,13 @@
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\bin\Debug\netcoreapp3.1\AnnotationDemo.exe
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\bin\Debug\netcoreapp3.1\AnnotationDemo.deps.json
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\bin\Debug\netcoreapp3.1\AnnotationDemo.runtimeconfig.json
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\bin\Debug\netcoreapp3.1\AnnotationDemo.runtimeconfig.dev.json
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\bin\Debug\netcoreapp3.1\AnnotationDemo.dll
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\bin\Debug\netcoreapp3.1\AnnotationDemo.pdb
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\obj\Debug\netcoreapp3.1\AnnotationDemo.csprojAssemblyReference.cache
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\obj\Debug\netcoreapp3.1\AnnotationDemo.AssemblyInfoInputs.cache
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\obj\Debug\netcoreapp3.1\AnnotationDemo.AssemblyInfo.cs
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\obj\Debug\netcoreapp3.1\AnnotationDemo.csproj.CoreCompileInputs.cache
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\obj\Debug\netcoreapp3.1\AnnotationDemo.dll
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\obj\Debug\netcoreapp3.1\AnnotationDemo.pdb
+C:\Users\PRITHVIL5\source\repos\AnnotationDemo\AnnotationDemo\obj\Debug\netcoreapp3.1\AnnotationDemo.genruntimeconfig.cache
